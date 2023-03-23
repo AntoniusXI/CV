@@ -32,7 +32,8 @@
 * Клонирование удаленного репозитория с GitHub
 * Добавление в .gitignore
 * Создание issue, Pull request на GitHub
-
+---
+В процессе изучения языка разметки HTTP и CSS
 ---
 ### А так же:
 ##### [Вводный модуль для студентов профессии QA и QAMID](https://netology.ru/sharing/dea0040bcec6147b2a199b923c93e066?utm_source=social&utm_campaign=achievements)
